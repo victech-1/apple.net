@@ -357,37 +357,37 @@ nav{
     color: black;
 }
 .card:nth-child(1){
-    background: url(../Apple/img/mac_ease__bvgkz2zdltxy_xlarge.jpg) no-repeat;
+    background: url(./img/mac_ease__bvgkz2zdltxy_xlarge.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 .card:nth-child(2){
-    background: url(../Apple/img/mac_performance__dh5hyac1zf8m_xlarge.jpg) no-repeat;
+    background: url(./img/mac_performance__dh5hyac1zf8m_xlarge.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 .card:nth-child(3){
-    background: url(../Apple/img/mac_iphone__gh1tblkt6bqm_xlarge.jpg) no-repeat;
+    background: url(./img/mac_iphone__gh1tblkt6bqm_xlarge.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 .card:nth-child(4){
-    background: url(../Apple/img/mac_compatibility__cu59oukz81ci_xlarge.jpg) no-repeat;
+    background: url(./img/mac_compatibility__cu59oukz81ci_xlarge.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 .card:nth-child(5){
-    background: url(../Apple/img/mac_security__gfwda10khdym_xlarge.jpg) no-repeat;
+    background: url(./img/mac_security__gfwda10khdym_xlarge.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 .card:nth-child(6){
-    background: url(../Apple/img/mac_durability__epiwcuk7zkeq_xlarge.jpg) no-repeat;
+    background: url(./img/mac_durability__epiwcuk7zkeq_xlarge.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 .card:nth-child(7){
-    background: url(../Apple/img/mac_values__c9gck9qi4kia_xlarge.jpg) no-repeat;
+    background: url(./img/mac_values__c9gck9qi4kia_xlarge.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
